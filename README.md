@@ -1,4 +1,12 @@
 # aurea_app
+<p align="center">
+<span>
+<img src="https://user-images.githubusercontent.com/62712545/99002017-91c64680-251a-11eb-8f76-49de1770ca78.PNG" width="260" height="443" />
+</span>
+<span>
+<img src="https://user-images.githubusercontent.com/62712545/99002051-a1458f80-251a-11eb-8b22-8f0daad81c7b.PNG" width="260" height="443" />
+</span>
+</p>
 
 ## Descrição do Projeto
 <p align="justify">É um portótipo de Mobile App da área do funcionário da loja Áurea Cosméticos criado exclusivamente para o Hackatie. O projeto foi feito no React Native na linguegem JavaScript e utilizou o Expo para visualizar o protótipo no Smartphone.  </p>
