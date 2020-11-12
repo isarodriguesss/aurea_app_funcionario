@@ -9,7 +9,7 @@
 </p>
 
 ## Descrição do Projeto
-<p align="justify">É um portótipo de Mobile App da área do funcionário da loja Áurea Cosméticos criado exclusivamente para o Hackatie. O projeto foi feito no React Native na linguegem JavaScript e utilizou o Expo para visualizar o protótipo no Smartphone.  </p>
+<p align="justify">É um portótipo de Mobile App da área do funcionário da loja Áurea Cosméticos criado exclusivamente para o Hackatie. O projeto foi feito no React Native na linguagem JavaScript e utilizou o Expo para visualizar o protótipo no Smartphone.  </p>
 
 ## Equipe
 |nome|email|
@@ -19,11 +19,8 @@
 |Alexia Naara |ansc@ic.ufal.br|
 
 ## O que essa plataforma oferece?
-- Catálogo de produtos clicáveis;
-- Filtro para categorizar os produtos;
-- Navegação de páginas;
-- Páginas específicas para cada produto contendo o preço, descrição e disponibilidade;
-- Página de preenchimento dos dados da compra, pelo próprio cliente, com botão para ser enviado para o WhatsApp da empresa.
+- Página de login;
+- Painel de controle das categorias, produtos (incluindo sua disponibilidade) e dados da loja;
 
 ## Pré-requisitos para rodar a aplicação
 - React Native
