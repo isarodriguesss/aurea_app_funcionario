@@ -1,0 +1,10 @@
+{
+  "webpackServerPort": null,
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://sz-z9z.anonymous.funcionario.exp.direct",
+  "packagerNgrokUrl": "https://packager.sz-z9z.anonymous.funcionario.exp.direct",
+  "ngrokPid": 13480,
+  "devToolsPort": 19002,
+  "packagerPort": 19001,
+  "packagerPid": 6252
+}
