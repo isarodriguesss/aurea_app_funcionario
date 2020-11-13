@@ -1,4 +1,3 @@
-# aurea_app
 <p align="center">
 <span>
 <img src="https://user-images.githubusercontent.com/62712545/99002017-91c64680-251a-11eb-8f76-49de1770ca78.PNG" width="260" height="443" />
